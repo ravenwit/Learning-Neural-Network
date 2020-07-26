@@ -1,0 +1,50 @@
+#/datasets/
+#/Emojify/data/
+#/Face Recognition/datasets/
+#/Face Recognition/nn4.small2.v7.h5
+#/Jazz Improvisation (LSTM)/data/
+#/Neural Machine Translation/models/
+#/Neural Style Transfer/pretrained-model/
+#/Notebooks/Advanced Machine Learning/intro-to-dl/readonly/
+#/Notebooks/Coursera (Deep learning)/2. Planar data classification with one hidden layer/datasets/
+#/Notebooks/Coursera (Deep learning)/3. Building Deep Neural Network/datasets/
+#/Notebooks/Coursera (Deep learning)/4. Application (Image Classification)/datasets/
+#/Notebooks/Coursera (Deep learning)/5. Regularization/datasets/
+#/Notebooks/Coursera (Deep learning)/7. Optimization/datasets/
+#/Notebooks/Coursera (Deep learning)/8. TensorFlow/datasets/
+#/Notebooks/Coursera (Deep learning)/9. ConvNet Basic/datasets/
+#/Notebooks/Coursera (Deep learning)/10. Keras/datasets/
+#/Notebooks/Coursera (Deep learning)/11. ResNets/datasets/
+#/Notebooks/Coursera (Deep learning)/12. Autonomous Driving (Car  Detection)/nb_images/
+#/Notebooks/Coursera (Deep learning)/13. Neural Style Transfer/pretrained-model/
+#/Notebooks/Coursera (Deep learning)/14. Face Recognition/datasets/
+#/Notebooks/Coursera (Deep learning)/15. RNN/data/
+#/Notebooks/Coursera (Deep learning)/16. Character level Language Model/models/
+#/Notebooks/Coursera (Deep learning)/17. Jazz Improvisation with LSTM/data/
+#/Notebooks/Coursera (Deep learning)/18. Word Vector Representation/data/
+#/Notebooks/Coursera (Deep learning)/19. Emojify/data/
+#/Notebooks/Coursera (Deep learning)/20. Neural Machine Translation/models/
+#/Notebooks/Coursera (Deep learning)/21. Trigger Word Detection/models/
+#/RNN/data/
+#/Trigger Word Detection/models/
+#/Word Vector Representation/data/
+
+
+#./Notebooks/Coursera (Deep learning)/12. Autonomous Driving (Car  Detection)/nb_images/pred_video.mp4
+#./Notebooks/Coursera (Deep learning)/12. Autonomous Driving (Car  Detection)/nb_images/road_video.mp4
+#./Notebooks/Coursera (Deep learning)/19. Emojify/data/glove.6B.50d.txt
+#./Notebooks/Coursera (Deep learning)/13. Neural Style Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
+#./Notebooks/Coursera (Deep learning)/18. Word Vector Representation/data/glove.6B.50d.txt
+#./Notebooks/Advanced Machine Learning/intro-to-dl/readonly/keras/datasets/cifar-10-batches-py.tar.gz
+#./Notebooks/Advanced Machine Learning/intro-to-dl/readonly/keras/models/inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5
+#./Notebooks/Advanced Machine Learning/intro-to-dl/readonly/unsupervised/lfw-deepfunneled.tgz
+#./Notebooks/Advanced Machine Learning/intro-to-dl/readonly/unsupervised/lfw.tgz
+#./Notebooks/Advanced Machine Learning/intro-to-dl/readonly/conv/102flowers.tgz
+#./Notebooks/Advanced Machine Learning/intro-to-dl/readonly/image_captioning/val_img_embeds.pickle
+#./Notebooks/Advanced Machine Learning/intro-to-dl/readonly/image_captioning/train_img_embeds.pickle
+#./Notebooks/Advanced Machine Learning/intro-to-dl/readonly/image_captioning/val2014_sample.zip
+#./Notebooks/Advanced Machine Learning/intro-to-dl/readonly/image_captioning/train2014_sample.zip
+#./Neural Style Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
+#./Word Vector Representation/data/glove.6B.50d.txt
+#./datasets/glove.6B.zip
+#./Emojify/data/glove.6B.50d.txt
