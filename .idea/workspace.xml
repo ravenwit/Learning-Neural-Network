@@ -5,42 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fed4349-b819-45d7-9aba-30943e6b0e97" name="Default Changelist" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_1_Pandas_basics/PandasBasics.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_1_Pandas_basics/grader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_2_Data_leakages/Data_leakages.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_3_Mean_encodings/Programming_assignment_week_3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_3_Mean_encodings/grader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_4_Catboost/catboost_notebook_v2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_4_Catboost/grader_v2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_4_Ensembles/Programming_assignment_week_4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_4_Ensembles/grader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_4_KNN_features/compute_KNN_features.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Programming_assignment_week_4_KNN_features/grader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Reading_materials/EDA_Springleaf_screencast.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Reading_materials/EDA_video2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Reading_materials/EDA_video3_screencast.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Reading_materials/GBM_drop_tree.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Reading_materials/Hyperparameters_tuning_video2_RF_n_estimators.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Reading_materials/Macros.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Reading_materials/Metrics_video2_constants_for_MSE_and_MAE.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Reading_materials/Metrics_video3_weighted_median.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/Reading_materials/Metrics_video8_soft_kappa_xgboost.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/KNN_features_data/X.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/KNN_features_data/X_test.npz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/KNN_features_data/Y.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/KNN_features_data/Y_test.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/KNN_features_data/knn_feats_test_first50.npy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/data_leakages_data/test_pairs.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/final_project_data/item_categories.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/final_project_data/items.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/final_project_data/sales_train.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/final_project_data/sample_submission.csv.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/final_project_data/shops.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/competitive-data-science/readonly/final_project_data/test.csv.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6fed4349-b819-45d7-9aba-30943e6b0e97" name="Default Changelist" comment="" />
     <list id="714418cf-c80f-4c64-9bfe-d88c7bdd440d" name="Revert &quot;Initial Commit&quot;" comment="Revert &quot;Initial Commit&quot;&#10;&#10;This reverts commit e073dd72" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,6 +222,7 @@
       <workItem from="1595735769188" duration="3083000" />
       <workItem from="1596116254486" duration="1216000" />
       <workItem from="1596180575334" duration="1322000" />
+      <workItem from="1596773354117" duration="367000" />
     </task>
     <task id="LOCAL-00001" summary="virtual environment added">
       <created>1595507888676</created>
@@ -279,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595737717621</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added competetive data science course's notebooks">
+      <created>1596773567501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596773567501</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +306,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Initial Commit (&gt;40M files are removed) without venv" />
     <MESSAGE value="Added some data and images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some data and images" />
+    <MESSAGE value="Added competetive data science course's notebooks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added competetive data science course's notebooks" />
   </component>
   <component name="WindowStateProjectService">
     <state x="283" y="49" key="#Notifications" timestamp="1595780028956">
@@ -344,10 +318,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1594823589514" />
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2" timestamp="1596117669444">
+    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2" timestamp="1596773564653">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1596117669444" />
+    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1596773564653" />
     <state x="158" y="23" key="CommitChangelistDialog2/0.23.1366.745@0.23.1366.745" timestamp="1596117250950" />
     <state x="143" y="66" key="DiffContextDialog" timestamp="1595506754649">
       <screen x="0" y="0" width="1366" height="768" />
@@ -410,10 +384,10 @@
     </state>
     <state x="90" y="24" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1595735795052" />
     <state x="355" y="44" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1591444304971" />
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1595781188415">
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1596773584726">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1595781188415" />
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1596773584726" />
     <state width="683" height="384" key="XDebugger.FullValuePopup" timestamp="1590503863559">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -431,6 +405,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="0" y="0" width="770" height="768" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1590681388542" />
+    <state x="449" y="136" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1596773516260">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="449" y="136" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1366.768@0.0.1366.768" timestamp="1596773516260" />
     <state x="488" y="308" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595506912197">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
