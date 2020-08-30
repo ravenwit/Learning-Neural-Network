@@ -5,7 +5,251 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fed4349-b819-45d7-9aba-30943e6b0e97" name="Default Changelist" comment="" />
+    <list default="true" id="6fed4349-b819-45d7-9aba-30943e6b0e97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/Amazon GPU howto.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/docker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/docker/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/docker/deeplearning.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/docker/run_jupyter.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/setup_colab.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/crossentropy_method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/deep_crossentropy_method.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/gym_interface.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/pong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/primer_python_for_ml/recap_ml.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/primer_python_for_ml/recap_pytorch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/primer_python_for_ml/recap_tensorflow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/primer_python_for_ml/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/project_starter_evolution_strategies.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week01_intro/seminar_gym_interface.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week02_value_based/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week02_value_based/mdp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week02_value_based/practice_vi.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week02_value_based/seminar_vi.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/featureExtractors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/ghostAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/graphicsCrawlerDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/graphicsDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/graphicsGridworldDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/graphicsUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/gridworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/how2run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/keyboardAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/capsuleClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/contestClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/mediumClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/mediumGrid.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/minimaxClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/openClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/originalClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/smallClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/smallGrid.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/testClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/trappedClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/layouts/trickyClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/learningAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/mdp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/pacman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/pacmanAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/qlearningAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/run_crawler.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/run_grid.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/run_pacman.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/textDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/textGridworldDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py2/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/crawler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/featureExtractors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/ghostAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/graphicsCrawlerDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/graphicsDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/graphicsGridworldDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/graphicsUtils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/gridworld.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/how2run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/keyboardAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/capsuleClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/contestClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/mediumClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/mediumGrid.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/minimaxClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/openClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/originalClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/smallClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/smallGrid.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/testClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/trappedClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/layouts/trickyClassic.lay" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/learningAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/mdp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/pacman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/pacmanAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/qlearningAgents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/run_crawler.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/run_grid.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/run_pacman.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/textDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/textGridworldDisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/crawler_and_pacman/seminar_py3/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/homework.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week03_model_free/seminar_qlearning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_[recap]_deep_learning/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_[recap]_deep_learning/mnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_[recap]_deep_learning/notmnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_[recap]_deep_learning/practice_lasagne.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_[recap]_deep_learning/seminar_pytorch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_[recap]_deep_learning/seminar_tensorflow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/atari_wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/framebuffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/homework_lasagne.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/homework_pytorch_debug.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/homework_pytorch_main.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/homework_tf.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/replay_buffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/seminar_lasagne.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/seminar_pytorch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/seminar_tf.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week04_approx_rl/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week05_explore/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week05_explore/action_rewards.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week05_explore/all_states.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week05_explore/bayes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week05_explore/bnn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week05_explore/river_swim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week05_explore/week5.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week06_policy_based/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week06_policy_based/a2c-optional.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week06_policy_based/atari_wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week06_policy_based/env_batch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week06_policy_based/reinforce_lasagne.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week06_policy_based/reinforce_pytorch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week06_policy_based/reinforce_tensorflow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week06_policy_based/runners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_[recap]_rnn/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_[recap]_rnn/arxiv_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_[recap]_rnn/mtg_card_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_[recap]_rnn/names" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_[recap]_rnn/rnn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_[recap]_rnn/seminar_lasagne.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_[recap]_rnn/seminar_lasagne_ingraph.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_[recap]_rnn/seminar_pytorch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_[recap]_rnn/seminar_tf.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/basic_model_tf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/basic_model_theano.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/basic_model_torch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/bonus.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/bonus_pytorch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/he-pron-wiktionary.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/main_dataset.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/practice_tf.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/practice_theano.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/practice_torch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/scheme.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week07_seq2seq/voc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/atari_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/env_pool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/homework_common_part2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/practice_pytorch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/practice_tensorflow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/practice_theano.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week08_pomdp/theano_optional_recurrence_tutorial.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week09_policy_II/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week09_policy_II/mujoco_wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week09_policy_II/ppo.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week09_policy_II/runners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week09_policy_II/seminar_TRPO_pytorch.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week09_policy_II/seminar_TRPO_tensorflow.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week09_policy_II/seminar_TRPO_theano.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week10_planning/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week10_planning/seminar_MCTS.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week3[hse]/experience_replay.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week3[hse]/qlearning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week3[hse]/sarsa.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week4[hse]/practice_approx_qlearning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week5[hse]/practice_a3c.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week5[hse]/practice_reinforce.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week6[hse]/bandits.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/week6[hse]/practice_mcts.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/xvfb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/a3c_scheme.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/cliffworld.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/conv_salary_architecture.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/conv_salary_architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/do_something_scst.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/dqn_arch.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/dqn_arch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/env_pool.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/exp_replay.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/exp_replay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/msc_2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/nerd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/nnet_arch.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/nnet_arch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/pca_fish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/pomdp_arch.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/pomdp_arch.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/pomdp_arch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/pomdp_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/pomdp_img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/pomdp_img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/qlearning_scheme.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/qlearning_scheme.pgm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/qlearning_scheme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/rollout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/scheme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/target_net.odp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/target_net.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/yet_another_week/_resource/training.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/Practical_RL/youtube_dl_lectures.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/setup_google_colab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week2/em_assignment.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week2/samples.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week2/w2_grader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week4/adult_us_postprocessed.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week4/mcmc_assignment.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week4/w4_grader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week5/CVAE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week5/VAE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week5/Vae_assignment.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week5/test_data.npz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week5/w5_grader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week6/gp_assignment.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week6/w6_grader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week7_(final_project)/(optional)_training_vae.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week7_(final_project)/finding_suspect.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Advanced Machine Learning/bayesian-methods-for-ml/week7_(final_project)/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Reinforcement Learning/practice_a3c.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/Reinforcement Learning/practice_reinforce.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="714418cf-c80f-4c64-9bfe-d88c7bdd440d" name="Revert &quot;Initial Commit&quot;" comment="Revert &quot;Initial Commit&quot;&#10;&#10;This reverts commit e073dd72" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +299,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -222,7 +466,9 @@
       <workItem from="1595735769188" duration="3083000" />
       <workItem from="1596116254486" duration="1216000" />
       <workItem from="1596180575334" duration="1322000" />
-      <workItem from="1596773354117" duration="367000" />
+      <workItem from="1596773354117" duration="859000" />
+      <workItem from="1596896567691" duration="407000" />
+      <workItem from="1598782183859" duration="618000" />
     </task>
     <task id="LOCAL-00001" summary="virtual environment added">
       <created>1595507888676</created>
@@ -252,7 +498,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596773567501</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Solved competetive data science course's assignments">
+      <created>1596774046889</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596774046889</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +560,8 @@
     <MESSAGE value="Initial Commit (&gt;40M files are removed) without venv" />
     <MESSAGE value="Added some data and images" />
     <MESSAGE value="Added competetive data science course's notebooks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added competetive data science course's notebooks" />
+    <MESSAGE value="Solved competetive data science course's assignments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved competetive data science course's assignments" />
   </component>
   <component name="WindowStateProjectService">
     <state x="283" y="49" key="#Notifications" timestamp="1595780028956">
@@ -318,10 +572,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1594823589514" />
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2" timestamp="1596773564653">
+    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2" timestamp="1596774046102">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1596773564653" />
+    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1596774046102" />
     <state x="158" y="23" key="CommitChangelistDialog2/0.23.1366.745@0.23.1366.745" timestamp="1596117250950" />
     <state x="143" y="66" key="DiffContextDialog" timestamp="1595506754649">
       <screen x="0" y="0" width="1366" height="768" />
@@ -379,15 +633,15 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="268" y="102" key="RollbackChangesDialog/0.0.1366.768@0.0.1366.768" timestamp="1595735340165" />
-    <state x="90" y="24" key="SettingsEditor" timestamp="1595735795053">
+    <state x="90" y="24" key="SettingsEditor" timestamp="1596896946269">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="90" y="24" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1595735795052" />
+    <state x="90" y="24" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1596896946269" />
     <state x="355" y="44" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1591444304971" />
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1596773584726">
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1596774050517">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1596773584726" />
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1596774050517" />
     <state width="683" height="384" key="XDebugger.FullValuePopup" timestamp="1590503863559">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
