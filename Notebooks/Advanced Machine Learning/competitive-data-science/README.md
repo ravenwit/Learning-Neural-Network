@@ -1,3 +1,8 @@
+# Materials for "How to Win a Data Science Competition: Learn from Top Kagglers" course
+This repository contains programming assignments notebooks for the ML course about competitive data science.
+https://github.com/hse-aml/competitive-data-science
+
+
 # Additional Materials and Links
 
 
