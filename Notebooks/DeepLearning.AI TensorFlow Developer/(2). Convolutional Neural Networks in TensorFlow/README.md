@@ -1,6 +1,6 @@
 # Deeplearning.ai Tensorflow Developer
 
-## Introduction to Tensorflow for Artificial Intelligence, Machine Learning and Deep Learning
+## Convolutional Neural Networks in TensorFlow
 
 Source : https://github.com/lmoroney/dlaicourse
 https://www.coursera.org/learn/convolutional-neural-networks-tensorflow/
