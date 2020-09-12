@@ -6,23 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fed4349-b819-45d7-9aba-30943e6b0e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 1/Course_3_Week_1_Exercise_answer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 1/Course_3_Week_1_Lesson_1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 1/Course_3_Week_1_Lesson_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 1/Course_3_Week_1_Lesson_3.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week 1/Course_2_Part_2_Lesson_2_Notebook.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week 1/Exercise_5_Question.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week 2/Course_2_Part_4_Lesson_2_Notebook_(Cats_v_Dogs_Augmentation).ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week 2/Course_2_Part_4_Lesson_4_Notebook.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week 2/Exercise_2_Cats_vs_Dogs_using_augmentation_Question-LIGHT.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week 2/Exercise_6_Question.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week 3/Course_2_Part_6_Lesson_3_Notebook.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week 3/Exercise_7_Question.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week4/Course_2_Part_8_Lesson_2_Notebook_(RockPaperScissors).ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week4/Exercise_4_Multi_class_classifier_Question-FINAL.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(2). Convolutional Neural Networks in TensorFlow/week4/Exercise_8_Question.ipynb" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 2/Course_3_Week_2_Exercise_Answer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 2/Course_3_Week_2_Lesson_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 2/Course_3_Week_2_Lesson_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 2/Course_3_Week_2_Lesson_3.ipynb" afterDir="false" />
     </list>
     <list id="714418cf-c80f-4c64-9bfe-d88c7bdd440d" name="Revert &quot;Initial Commit&quot;" comment="Revert &quot;Initial Commit&quot;&#10;&#10;This reverts commit e073dd72" />
     <option name="SHOW_DIALOG" value="false" />
@@ -252,7 +239,7 @@
       <workItem from="1599521234370" duration="1154000" />
       <workItem from="1599619393310" duration="668000" />
       <workItem from="1599666060199" duration="1887000" />
-      <workItem from="1599908848117" duration="127000" />
+      <workItem from="1599908848117" duration="428000" />
     </task>
     <task id="LOCAL-00001" summary="virtual environment added">
       <created>1595507888676</created>
@@ -422,7 +409,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599699041107</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Updated Convilution in Deeplearning.ai specialization &#10;and added NLP in Deepleaerning.ai tensprflow specialization">
+      <created>1599910089124</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1599910089124</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Updated Convilution in Deeplearning.ai specialization">
+      <created>1599910170679</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1599910170679</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -471,8 +472,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="virtual environment added" />
-    <MESSAGE value="Another commit" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Initial Commit (&gt;40M files are removed) without venv" />
     <MESSAGE value="Added some data and images" />
@@ -496,7 +495,9 @@
     <MESSAGE value="Introduction to Tensoeflow for Artificial Intelligence, Machine Learning and Deep Learning" />
     <MESSAGE value="Readme updated" />
     <MESSAGE value="Exercise_8_Question.ipynb updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise_8_Question.ipynb updated" />
+    <MESSAGE value="Updated Convilution in Deeplearning.ai specialization &#10;and added NLP in Deepleaerning.ai tensprflow specialization" />
+    <MESSAGE value="Updated Convilution in Deeplearning.ai specialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Convilution in Deeplearning.ai specialization" />
   </component>
   <component name="WindowStateProjectService">
     <state x="283" y="49" key="#Notifications" timestamp="1595780028956">
@@ -507,10 +508,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1594823589514" />
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2" timestamp="1599699040581">
+    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2" timestamp="1599910170404">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1599699040581" />
+    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1599910170404" />
     <state x="158" y="23" key="CommitChangelistDialog2/0.23.1366.745@0.23.1366.745" timestamp="1598977672940" />
     <state x="143" y="66" key="DiffContextDialog" timestamp="1595506754649">
       <screen x="0" y="0" width="1366" height="768" />
@@ -573,10 +574,10 @@
     </state>
     <state x="90" y="24" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1596896946269" />
     <state x="355" y="44" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1591444304971" />
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1599699045218">
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1599910179893">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1599699045218" />
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1599910179893" />
     <state x="100" y="100" width="1166" height="568" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1595735134368">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
