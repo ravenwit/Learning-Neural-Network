@@ -5,11 +5,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fed4349-b819-45d7-9aba-30943e6b0e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 4/Course_3_Week_4_Lesson_1_Notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 4/Course_3_Week_4_Lesson_2_Notebook.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(3) Natural Language Processing in TensorFlow/week 4/NLP_Week4_Exercise_Shakespeare_Answer.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="6fed4349-b819-45d7-9aba-30943e6b0e97" name="Default Changelist" comment="" />
     <list id="714418cf-c80f-4c64-9bfe-d88c7bdd440d" name="Revert &quot;Initial Commit&quot;" comment="Revert &quot;Initial Commit&quot;&#10;&#10;This reverts commit e073dd72" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +234,7 @@
       <workItem from="1599521234370" duration="1154000" />
       <workItem from="1599619393310" duration="668000" />
       <workItem from="1599666060199" duration="1887000" />
-      <workItem from="1599908848117" duration="814000" />
+      <workItem from="1599908848117" duration="1008000" />
     </task>
     <task id="LOCAL-00001" summary="virtual environment added">
       <created>1595507888676</created>
@@ -436,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599941340360</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="NLP week 4 Deeplearning.ai specialization">
+      <created>1599944067090</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1599944067090</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -485,7 +488,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Added some data and images" />
     <MESSAGE value="Added competetive data science course's notebooks" />
     <MESSAGE value="Solved competetive data science course's assignments" />
     <MESSAGE value="Added RL &amp; Bayesian Neural Architecture" />
@@ -510,7 +512,8 @@
     <MESSAGE value="Updated Convilution in Deeplearning.ai specialization" />
     <MESSAGE value="NLP week 2 Deeplearning.ai specialization" />
     <MESSAGE value="NLP week 3 Deeplearning.ai specialization" />
-    <option name="LAST_COMMIT_MESSAGE" value="NLP week 3 Deeplearning.ai specialization" />
+    <MESSAGE value="NLP week 4 Deeplearning.ai specialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="NLP week 4 Deeplearning.ai specialization" />
   </component>
   <component name="WindowStateProjectService">
     <state x="283" y="49" key="#Notifications" timestamp="1595780028956">
@@ -521,10 +524,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1594823589514" />
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2" timestamp="1599941340032">
+    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2" timestamp="1599944066795">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1599941340032" />
+    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1599944066795" />
     <state x="158" y="23" key="CommitChangelistDialog2/0.23.1366.745@0.23.1366.745" timestamp="1598977672940" />
     <state x="143" y="66" key="DiffContextDialog" timestamp="1595506754649">
       <screen x="0" y="0" width="1366" height="768" />
@@ -587,10 +590,10 @@
     </state>
     <state x="90" y="24" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1596896946269" />
     <state x="355" y="44" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1591444304971" />
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1599935786867">
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1599944069894">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1599935786867" />
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1599944069894" />
     <state x="100" y="100" width="1166" height="568" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1595735134368">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
