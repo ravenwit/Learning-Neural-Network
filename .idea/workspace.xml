@@ -6,10 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6fed4349-b819-45d7-9aba-30943e6b0e97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(4) Sequences, Time Series and Prediction/week 2/S+P_Week_2_Exercise_Answer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(4) Sequences, Time Series and Prediction/week 2/S+P_Week_2_Lesson_1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(4) Sequences, Time Series and Prediction/week 2/S+P_Week_2_Lesson_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(4) Sequences, Time Series and Prediction/week 2/S+P_Week_2_Lesson_3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(4) Sequences, Time Series and Prediction/week 3/S+P_Week_3_Exercise_Answer.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(4) Sequences, Time Series and Prediction/week 3/S+P_Week_3_Lesson_2_RNN.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notebooks/DeepLearning.AI TensorFlow Developer/(4) Sequences, Time Series and Prediction/week 3/S+P_Week_3_Lesson_4_LSTM.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="714418cf-c80f-4c64-9bfe-d88c7bdd440d" name="Revert &quot;Initial Commit&quot;" comment="Revert &quot;Initial Commit&quot;&#10;&#10;This reverts commit e073dd72" />
@@ -241,7 +240,7 @@
       <workItem from="1599619393310" duration="668000" />
       <workItem from="1599666060199" duration="1887000" />
       <workItem from="1599908848117" duration="1008000" />
-      <workItem from="1600041516195" duration="724000" />
+      <workItem from="1600041516195" duration="878000" />
     </task>
     <task id="LOCAL-00001" summary="virtual environment added">
       <created>1595507888676</created>
@@ -467,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600043523159</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Sequences, Time Series and Predictions in Deeplearning.ai specializations week 2 updated">
+      <created>1600116978566</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1600116978566</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -516,7 +522,6 @@
       <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Added read me for competitive data science" />
     <MESSAGE value="Added read-me for competitive data science" />
     <MESSAGE value="Added hadron collider data science repo" />
     <MESSAGE value="Deeplearning.ai tensorflow developer specialization initialization" />
@@ -541,7 +546,8 @@
     <MESSAGE value="Sequences, Time Series and Predictions in Deeplearning.ai specializations exercises" />
     <MESSAGE value="Sequences, Time Series and Predictions in Deeplearning.ai specializations exercises updated with experiments" />
     <MESSAGE value="Sequences, Time Series and Predictions in Deeplearning.ai specializations lesson added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sequences, Time Series and Predictions in Deeplearning.ai specializations lesson added" />
+    <MESSAGE value="Sequences, Time Series and Predictions in Deeplearning.ai specializations week 2 updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sequences, Time Series and Predictions in Deeplearning.ai specializations week 2 updated" />
   </component>
   <component name="WindowStateProjectService">
     <state x="283" y="49" key="#Notifications" timestamp="1595780028956">
@@ -552,10 +558,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="413" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1594823589514" />
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2" timestamp="1600043522802">
+    <state x="143" y="22" width="1118" height="723" key="CommitChangelistDialog2" timestamp="1600116978094">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="158" y="23" width="1131" height="745" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1600043522802" />
+    <state x="143" y="22" width="1118" height="723" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1600116978094" />
     <state x="158" y="23" key="CommitChangelistDialog2/0.23.1366.745@0.23.1366.745" timestamp="1598977672940" />
     <state x="143" y="66" key="DiffContextDialog" timestamp="1595506754649">
       <screen x="0" y="0" width="1366" height="768" />
@@ -618,10 +624,10 @@
     </state>
     <state x="90" y="24" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1596896946269" />
     <state x="355" y="44" key="SettingsEditor/0.23.1366.745@0.23.1366.745" timestamp="1591444304971" />
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1600043539885">
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2" timestamp="1600116981297">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1600043539885" />
+    <state x="417" y="162" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1600116981297" />
     <state x="100" y="100" width="1166" height="568" key="com.intellij.dvcs.ui.CompareBranchesDialog" timestamp="1595735134368">
       <screen x="0" y="23" width="1366" height="745" />
     </state>
